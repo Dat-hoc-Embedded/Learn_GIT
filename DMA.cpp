@@ -4,4 +4,9 @@ using namespace std;
 int main(){
     cout << "haha";
 }
-sdffsdfsd
+<<<<<<< HEAD
+Local thay doi nay
+=======
+
+thay doi nay
+>>>>>>> Learn_GIT/master
