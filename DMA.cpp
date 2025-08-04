@@ -7,3 +7,5 @@ int main(){
 Local thay doi nay
 
 thay doi nay
+
+Xem nó conflict như nào 
